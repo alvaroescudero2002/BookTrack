@@ -4,4 +4,6 @@
 - [ ] *1984* - George Orwell  
 
 ## Libros pendientes  
-- [ ] *Cien años de soledad* - Gabriel García Márquez 
+- [ ] *Cien años de soledad* - Gabriel García Márquez
+- [ ] *Don Quijote de la Mancha* - Miguel de Cervantes  # Nuevo libro agregado
+
