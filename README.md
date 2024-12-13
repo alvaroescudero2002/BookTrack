@@ -1,4 +1,4 @@
 # BookTrack
 Sistema para gestionar y compartir listas de libros
 
-1. *El Principito* - Antoine de Saint-Exupéry
+1. *1984* - George Orwell
