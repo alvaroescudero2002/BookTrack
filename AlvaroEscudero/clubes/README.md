@@ -4,15 +4,4 @@
 
 ---
 
-## 📂 **Carpeta de Clubes**  
-
-La carpeta contiene la información actualizada de cada club, incluyendo:  
-
-- 📚 **Listas de libros sugeridos y leídos**  
-- 📆 **Actividades programadas y futuras**  
-- 🤝 **Cómo participar en cada club**  
-
-¡Explora, elige tu club y comienza esta aventura literaria!
-
----
 
