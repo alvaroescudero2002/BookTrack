@@ -1,6 +1,6 @@
 # 📖 Perfil de Usuario: usuarioalvaro  
 
-¡Hola! Soy **usuarioalvaro**, un apasionado por los libros y miembro de **BookTrack**. Este es mi espacio para registrar y compartir mis lecturas.  
+¡Hola! Soy **usuarioalvaro**, un apasionado por los libros. 
 
 ---
 
