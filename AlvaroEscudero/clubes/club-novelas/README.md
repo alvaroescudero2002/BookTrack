@@ -30,25 +30,3 @@ Bienvenidos al **club Amantes de las Novelas**, un espacio para los apasionados 
 
 ---
 
-## 📅 Próximas Actividades  
-
-- **Discusión sobre *El Gran Gatsby***  
-  - **Fecha:** 27 de diciembre de 2024  
-  - **Modalidad:** Virtual (Google Meet)  
-
-- **Propuesta de Libros para Enero**  
-  - **Fecha:** 30 de diciembre de 2024  
-  - **Detalle:** Cada miembro puede sugerir hasta 2 títulos.  
-
----
-
-## 🤝 Cómo Participar  
-
-1. **Solicita acceso al club** enviando un mensaje a los administradores.  
-2. Consulta la lista de libros y actividades programadas.  
-3. Comparte tus reseñas y reflexiones en las reuniones o por escrito en esta carpeta.  
-
----
-
-🎉 **¡Este club es un lugar para conectar, aprender y disfrutar del arte de la narrativa!**  
-¡Únete y sumérgete en las mejores novelas con nosotros!  
